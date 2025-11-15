@@ -4,7 +4,7 @@
 </p>
 
 - 👀 I’m interested in technology and language.
-- 🌱 Currently, I'm studying japanese with target at N2 and some of the programming languages.
+- 🌱 Currently, I'm studying japanese with target at N1 and some of the programming languages.
 - 📫 How to reach me: bao.tranlechi05@gmail.com
 
 
